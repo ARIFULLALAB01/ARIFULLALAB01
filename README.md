@@ -1,24 +1,23 @@
 # 👋 Hey there, I'm Arifulla Shaik!
 
-🚀 **DevOps Engineer** | Azure| AWS | Terraform | Azure Devops| Github Actions | Jenkins | Docker | Kubernetes | CI/CD | Linux
+🚀 **DevOps Engineer** | Azure| AWS | Terraform |VMWare|  Azure Devops| Github Actions | Jenkins | Docker | Kubernetes | CI/CD | Linux
 
-🌱 I'm currently sharpening my skills by building hands-on DevOps labs and real-world infrastructure automation projects on AWS.
+🌱 I'm currently sharpening my skills by building hands-on DevOps labs and real-world infrastructure automation projects on AZure and AWS.
 
 ---
 
 ### 🧠 What I’m focusing on:
 - 🔧 Infrastructure as Code using **Terraform**
-- 🌀 CI/CD pipelines with **Jenkins & GitHub Actions**
-- ☁️ Cloud provisioning on **AWS** – EC2, VPC, S3, IAM
+- 🌀 CI/CD pipelines with **Azure Devops & GitHub Actions**
+- ☁️ Cloud provisioning on **Azure** – VMs, VNet, Storta, IAM
 - 🐳 Containerization using **Docker**
-- ☸️ Orchestration with **Kubernetes (EKS)**
+- ☸️ Orchestration with **Kubernetes AKS & EKS & Kubeadm**
 - 📦 Automating deployments using **Ansible & Bash scripting**
 
 ---
 
 ### 🛠️ Tech Stack
-`AWS` | `Terraform` | `Jenkins` | `Docker` | `Kubernetes (EKS)` | `GitHub Actions` | `Linux` | `Bash` | `Ansible` | `CI/CD` | `VPC` | `EC2` | `IAM`
-
+'AZure`  | `Azure Devops`| `Terraform` | `Docker` | `Kubernetes (AKS) (EKS) Kubeadm` | `GitHub Actions` | `Linux` | `Bash` | `Ansible` | `CI/CD` | 'Shell Scripting' |
 ---
 
 ### 📂 Featured Projects
